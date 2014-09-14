@@ -1,0 +1,42 @@
+/**
+ * Style.
+ *
+ * The Stylesheet contains de default CSS for the map page, it uses some CSS hacks to get everything in fullscreen.
+ *
+ * @author Pim Oude Veldhuis
+ * @copyright 2014 OVS Development <OVSdev.com>
+ * @license GNU General Public License, version 3
+ */
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#map {
+    margin-top: 0;
+    margin-bottom: 0;
+
+    position: absolute;
+
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+    background: gray;
+}
+
+/** Dialog Pop-up */
+#popup {
+    font-size: 11px;
+}
+
+.ui-dialog-title {
+    font-size: 12px;
+}

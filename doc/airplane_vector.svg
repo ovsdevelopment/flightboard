@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18"
+   height="18"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48+devel+osxmenu r12782"
+   viewBox="0 0 17.999999 18.000001"
+   sodipodi:docname="airplane_vector.svg"
+   inkscape:export-filename="/Users/pimoudeveldhuis/Documents/Laser Engraver/various/airplane_engraving.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="50.348788"
+     inkscape:cx="8.9749503"
+     inkscape:cy="8.9865576"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="1366"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-261.00607,-679.41241)">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4368"
+       d="m 268.83424,680.52631 -0.20079,4.49987 c -2.45651,1.54223 -5.90633,3.60151 -7.36271,4.62316 -0.12852,0.32454 -0.20515,0.78653 0.0669,1.47941 l 7.36272,-2.21912 0.51888,6.28543 c -0.87408,0.55443 -1.3403,0.9302 -2.14203,1.38901 -0.25357,0.23803 -0.1742,0.5012 0.0669,0.67807 l 2.79559,-0.0154 2.96182,0.0154 c 0.24112,-0.17687 0.23683,-0.44004 -0.0167,-0.67807 -0.80174,-0.45881 -1.1885,-0.8743 -2.06259,-1.42873 l 0.43944,-6.24571 7.36271,2.21912 c 0.27209,-0.69288 0.19545,-1.15487 0.0669,-1.47941 -1.45638,-1.02165 -4.9062,-3.08093 -7.36271,-4.62316 l -0.20079,-4.49987 c -0.0435,-0.34816 -0.3213,-0.91686 -1.16352,-0.91694 -0.76329,0.007 -1.13545,0.52236 -1.13007,0.91694 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
